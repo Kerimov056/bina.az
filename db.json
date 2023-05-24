@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "otaq": "4",
+      "price": "194000",
+      "area": "baki",
+      "kvadrat": "220.00",
+      "img": "https://bina.azstatic.com/uploads/f460x345/2023%2F05%2F13%2F14%2F51%2F38%2Ff6733690-a49d-4516-abe8-ce43c435ad8b%2F15334_lkFchlt0P3UiF1DP0_golg.jpg"
+    },
+    {
+      "id": 2,
+      "otaq": "3",
+      "price": "1000000",
+      "area": "baki",
+      "kvadrat": "246.00",
+      "img": "https://bina.azstatic.com/uploads/f460x345/2022%2F07%2F04%2F14%2F45%2F35%2F6199b389-4e57-485a-8e56-9f4aa2639dea%2F7945_Wf7F6YAPSAe-jonyrm_9ig.jpg"
+    },
+    {
+      "id": 3,
+      "otaq": "1",
+      "price": "203123",
+      "area": "Quba",
+      "kvadrat": "92.00",
+      "img": "https://bina.azstatic.com/uploads/f460x345/2023%2F04%2F07%2F10%2F10%2F17%2F30f72bc6-e8cd-4ab8-87f3-d91b941c02f8%2F31261_R8yubTJ7NV2eMCFMMLTh2g.jpg"
+    },
+    {
+      "id": 4,
+      "otaq": "6",
+      "price": "300000",
+      "area": "Semkir",
+      "kvadrat": "185.00",
+      "img": "https://bina.azstatic.com/uploads/f460x345/2023%2F05%2F23%2F21%2F27%2F57%2F09e1cedd-1ee1-4267-97d8-a1542c4af303%2F13728_iW788bF_xYjT2ffbQB8eLg.jpg"
+    },
+    {
+      "id": 4,
+      "otaq": "3",
+      "price": "320000",
+      "area": "Samaxi",
+      "kvadrat": "215.00",
+      "img": "https://bina.azstatic.com/uploads/f460x345/2023%2F02%2F17%2F02%2F19%2F37%2F549a3ea2-0b6a-4105-93d6-cc44eaeb9a84%2F29504_MfhT4bWeZPn5mJCyoJ0U_A.jpg"
+    },
+    {
+      "id": 4,
+      "otaq": "8",
+      "price": "145000",
+      "area": "Sumqayit",
+      "kvadrat": "245.00",
+      "img": "https://bina.azstatic.com/uploads/f460x345/2023%2F05%2F18%2F00%2F01%2F58%2F1af1be02-bc2b-492f-88b8-bee470f41477%2F82443_9kG0O76BqZekeK2iEHAd4w.jpg"
+    },
+    {
+      "id": 4,
+      "otaq": "5",
+      "price": "122000",
+      "area": "Lacin",
+      "kvadrat": "455.00",
+      "img": "https://bina.azstatic.com/uploads/f460x345/2023%2F05%2F23%2F21%2F40%2F00%2Fefc9e099-9264-4179-9af7-2e11beadb043%2F81189_M-bl3W5VILaDWm9io1NwSQ.jpg"
+    },
+    {
+      "id": 4,
+      "otaq": "4",
+      "price": "270000",
+      "area": "Terter",
+      "kvadrat": "140.00",
+      "img": "https://bina.azstatic.com/uploads/f460x345/2023%2F03%2F02%2F18%2F33%2F11%2Fe0166d25-c79a-4c72-9b46-c2136bb31e47%2F67559_jY6BLogltzkPDugNNYubOw.jpg"
+    }
+  ]
+}
